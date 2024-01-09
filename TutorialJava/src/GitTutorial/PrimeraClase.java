@@ -11,6 +11,8 @@ public class PrimeraClase {
 		String nombre = "Tomeu";
 		System.out.println("Hola + nombre");
 		
+		System.oout.orintln("Hola otra vez");
+		
 	}
 
 }
